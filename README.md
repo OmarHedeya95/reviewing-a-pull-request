@@ -20,6 +20,7 @@ To play the game:
 
 Here are some of my proposed changes to test the GitHub Pull Request functionality
 
+Some more changes mon ami
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
